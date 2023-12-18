@@ -7,7 +7,20 @@ Este repositório foi criado como parte do meu processo de aprendizado em Power 
 
 ## Projetos Destacados
 ### Dashboard de vendas
-O dashboard foi o meu primeiro projeto, onde seguindo orientações das aulas criei plano de fundo, e utilizei os dados fornecidos pelo professor, para gerar o relatório.
+O dashboard foi o meu primeiro projeto, onde seguindo orientações das aulas criei plano de fundo, e utilizei os dados fornecidos pelo professor, para gerar o relatório a seguir:
+https://shorturl.at/iNOSW
+
+### Dashboard SAC
+O dashboard foi o meu primeiro projeto, onde seguindo orientações das aulas criei plano de fundo, e utilizei os dados fornecidos pelo professor, para gerar o relatório a seguir:
+https://shorturl.at/ruG35
+
+### Dashboard Produtos
+O dashboard foi o meu primeiro projeto, onde seguindo orientações das aulas criei plano de fundo, e utilizei os dados fornecidos pelo professor, para gerar o relatório a seguir:
+https://shorturl.at/admMN
+
+### Dashboard analise de perfil
+O dashboard foi o meu primeiro projeto, onde seguindo orientações das aulas criei plano de fundo, e utilizei os dados fornecidos pelo professor, para gerar o relatório a seguir:
+https://shorturl.at/ewSTU
 
 ## Como Contribuir
 Se você também está aprendendo Power BI ou tem sugestões para melhorar meus projetos, sinta-se à vontade para abrir uma issue ou enviar um pull request. Estou aberto a colaborações e feedback construtivo.
